@@ -1,2 +1,2 @@
-# Agnel1
+# python script
  vgsales-analysis
